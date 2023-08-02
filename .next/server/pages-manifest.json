@@ -2,7 +2,5 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/": "pages/index.js",
-  "/Login/login": "pages/Login/login.js",
-  "/Find-ID/[id]": "pages/Find-ID/[id].js"
+  "/": "pages/index.js"
 }
