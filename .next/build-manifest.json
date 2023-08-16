@@ -12,10 +12,15 @@
   ],
   "rootMainFiles": [],
   "pages": {
-    "/Registration/registration": [
+    "/": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/Registration/registration.js"
+      "static/chunks/pages/index.js"
+    ],
+    "/Registration/Registration": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/Registration/Registration.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
